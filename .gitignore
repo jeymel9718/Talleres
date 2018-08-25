@@ -1,0 +1,7 @@
+## Ignore compile and outputs files
+
+*.o
+*.pyc
+*.class
+*.out
+*.app
